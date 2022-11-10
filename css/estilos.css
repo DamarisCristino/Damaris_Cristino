@@ -252,6 +252,7 @@ button{
     background-color: rgb(241, 130, 127);
     font-family: 'Poppins', sans-serif;
     border-radius: 20px;
+    border:none;
 }
 
 #boton_recetas{
